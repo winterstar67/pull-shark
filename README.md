@@ -1,3 +1,2 @@
-# pull shark
-# branch
+# How to get `Pull Shark` badge
 
